@@ -1,6 +1,7 @@
 # sample-database-project-repo
 ## Team Name
 ## Team Members
+### Gavin Fleming, Dawson Brown
 ## Project Introduction
 ## Business Rules
   ### 1)Persons (campus faculty, staff, students) contain personid (PK), name, email, cell, etc.  Faculty conatins title, highest degree, and degreecollege. Staff conatins Position and AdminYorN. Students conatins GradYear and major plus type (undergraduate, graduate). Only faculty, staff and students are included.
