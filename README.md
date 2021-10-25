@@ -4,6 +4,7 @@
 ## Team Members
 ### Gavin Fleming, Dawson Brown
 ## Project Introduction
+### We are creating a database to make a food delivery service. 
 ## Business Rules
   ### 1)Persons (campus faculty, staff, students) contain personid (PK), name, email, cell, etc.  Faculty conatins title, highest degree, and degreecollege. Staff conatins Position and AdminYorN. Students conatins GradYear and major plus type (undergraduate, graduate). Only faculty, staff and students are included.
   ### 2)Locations for delivery is limited (dorms, student center, and some class buidings). LocationID, LocationName, LocationAddress and (optional) Latitude and Longitude are maintained in the database. The food delivery drop-off point is included with a brief description.
