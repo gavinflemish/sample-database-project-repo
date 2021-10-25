@@ -1,5 +1,6 @@
 # sample-database-project-repo
 ## Team Name
+### Catawba Crave
 ## Team Members
 ### Gavin Fleming, Dawson Brown
 ## Project Introduction
