@@ -3,7 +3,8 @@
 ### Catawba Crave
 ## Team Members
 ### Gavin Fleming, Dawson Brown
-## Project Introduction Commit changes
+## Project Introduction
+### With the threat of the Corona virus, food delivery services are more important than ever. Local restaurants are eager to find easy ways to have food delivered to customers without having to hire delivery employees. We will create database for a campus controlled food delivery service similar to craveoncampus.com. The database will serve as an important data collection source providing valuable information about nutrition and eating habits of campus community members.
 ## Business Rules
   ### 1)Persons (campus faculty, staff, students) contain personid (PK), name, email, cell, etc.  Faculty conatins title, highest degree, and degreecollege. Staff conatins Position and AdminYorN. Students conatins GradYear and major plus type (undergraduate, graduate). Only faculty, staff and students are included.
   ### 2)Locations for delivery is limited (dorms, student center, and some class buidings). LocationID, LocationName, LocationAddress and (optional) Latitude and Longitude are maintained in the database. The food delivery drop-off point is included with a brief description.
