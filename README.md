@@ -17,7 +17,8 @@
   ### 7)	The database will serve as an important data collection source providing valuable information about nutrition and eating habits of campus community members.
 
 ## EERD
-[EERDpdf.pdf](https://github.com/gavinflemish/sample-database-project-repo/files/7412186/EERDpdf.pdf)
+![EERD2](https://user-images.githubusercontent.com/93001035/141513372-cc781314-e8b3-4175-8456-24249cb9059a.png)
+
 
 ## Data Dictionary
 ## SQL Code for Queries, Stored Procedures, Views (screen shots)
