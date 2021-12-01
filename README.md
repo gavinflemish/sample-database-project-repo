@@ -23,13 +23,3 @@
 ## Data Dictionary
 ## SQL Code for Queries, Stored Procedures, Views (screen shots)
 ## Future Work
-
-## UPDATE `campus_eats_fall2021`.`restaurant` SET `location` = '902 E Innes St', `restaurant_name` = 'Chick-fil-A', `schedule` = '6am -10pm', `website` = 'https://www.chick-fil-a.com/' WHERE (`restaurant_id` = '1');
-UPDATE `campus_eats_fall2021`.`restaurant` SET `location` = '1020 E Innes St', `restaurant_name` = 'Outback Steakhouse', `schedule` = '11am - 10pm', `website` = 'https://www.outback.com/' WHERE (`restaurant_id` = '2');
-UPDATE `campus_eats_fall2021`.`restaurant` SET `location` = '1030 Jake Alexander Blvd W', `restaurant_name` = 'Zaxby\'s Chicken Fingers & Buffalo Wings', `schedule` = '10:30am - 10pm', `website` = 'https://www.zaxbys.com' WHERE (`restaurant_id` = '3');
-UPDATE `campus_eats_fall2021`.`restaurant` SET `location` = '1510 W Innes St', `restaurant_name` = 'Romano\'s Italian Cuisine', `website` = 'https://romanos-italian-cuisine.business.site/?m=true' WHERE (`restaurant_id` = '4');
-UPDATE `campus_eats_fall2021`.`restaurant` SET `location` = '119 N Link Ave', `restaurant_name` = 'Monterrey Mexican Restaurant', `website` = 'https://monterreymexicanrestaurantnc.com/' WHERE (`restaurant_id` = '5');
-UPDATE `campus_eats_fall2021`.`restaurant` SET `location` = '1532 W Innes St', `restaurant_name` = 'L A Murph\'s Fine Cooking', `schedule` = '7am–5:30pm', `website` = 'http://lamurphs.com/' WHERE (`restaurant_id` = '11');
-UPDATE `campus_eats_fall2021`.`restaurant` SET `location` = '1804 W Innes St', `restaurant_name` = 'Subway', `schedule` = '9am -7:30pm', `website` = 'https://restaurants.subway.com' WHERE (`restaurant_id` = '12');
-UPDATE `campus_eats_fall2021`.`restaurant` SET `location` = '1601 W Innes St', `restaurant_name` = 'Domino\'s Pizza', `schedule` = '10:30am-12am', `website` = 'https://www.dominos.com' WHERE (`restaurant_id` = '13');
-UPDATE `campus_eats_fall2021`.`restaurant` SET `location` = '1939 Jake Alexander Blvd W', `restaurant_name` = 'Bojangles', `schedule` = '5am -10pm', `website` = 'https://locations.bojangles.com' WHERE (`restaurant_id` = '14');
