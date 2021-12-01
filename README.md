@@ -20,6 +20,5 @@
 ![EERD2](https://user-images.githubusercontent.com/93001035/141513372-cc781314-e8b3-4175-8456-24249cb9059a.png)
 
 
-## Data Dictionary
 ## SQL Code for Queries, Stored Procedures, Views (screen shots)
 ## Future Work
