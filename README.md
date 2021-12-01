@@ -21,10 +21,10 @@
 
 
 ## SQL Code for Queries, Stored Procedures, Views (screen shots)
-#![DeliveriesPerWeek](https://user-images.githubusercontent.com/93001035/144284033-57cd8fef-1549-4bc7-a563-99fd8dea1a54.png)
-#![OrdersPerWeek](https://user-images.githubusercontent.com/93001035/144284069-766ec483-59e1-43d0-8cae-37cd52728d33.png)
-#![OrdersPerWeek View](https://user-images.githubusercontent.com/93001035/144284059-94a4789b-e9a3-45fa-98de-4e71190f72d6.png)
-#![DriverRating](https://user-images.githubusercontent.com/93001035/144284050-4bb173f1-b43c-4e66-bd66-e591c14a7727.png)
-#![RestaurantRating](https://user-images.githubusercontent.com/93001035/144284074-535ab2f4-5e5b-4213-a9bc-9b97df0f1858.png)
+# ![DeliveriesPerWeek](https://user-images.githubusercontent.com/93001035/144284033-57cd8fef-1549-4bc7-a563-99fd8dea1a54.png)
+# ![OrdersPerWeek](https://user-images.githubusercontent.com/93001035/144284069-766ec483-59e1-43d0-8cae-37cd52728d33.png)
+# ![OrdersPerWeek View](https://user-images.githubusercontent.com/93001035/144284059-94a4789b-e9a3-45fa-98de-4e71190f72d6.png)
+# ![DriverRating](https://user-images.githubusercontent.com/93001035/144284050-4bb173f1-b43c-4e66-bd66-e591c14a7727.png)
+# ![RestaurantRating](https://user-images.githubusercontent.com/93001035/144284074-535ab2f4-5e5b-4213-a9bc-9b97df0f1858.png)
 
 ## Future Work
